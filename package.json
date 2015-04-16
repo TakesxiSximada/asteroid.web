@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/TakesxiSximada/asteroid.web/issues"
   },
-  "homepage": "https://github.com/TakesxiSximada/asteroid.web"
+  "homepage": "https://github.com/TakesxiSximada/asteroid.web",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.8.11"
+  }
 }
